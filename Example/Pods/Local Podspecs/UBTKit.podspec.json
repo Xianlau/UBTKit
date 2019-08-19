@@ -1,0 +1,22 @@
+{
+  "name": "UBTKit",
+  "version": "0.1.0",
+  "summary": "A collection of iOS components.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weixiang.liu/UBTKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weixiang.liu": "weixiang.liu@ubtrobot.com"
+  },
+  "source": {
+    "git": "https://github.com/weixiang.liu/UBTKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UBTKit/Classes/**/*"
+}

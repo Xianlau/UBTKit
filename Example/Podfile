@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UBTKit_Example' do
+  pod 'UBTKit', :path => '../'
+
+  target 'UBTKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

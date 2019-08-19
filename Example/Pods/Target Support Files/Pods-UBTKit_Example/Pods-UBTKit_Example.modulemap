@@ -1,0 +1,6 @@
+framework module Pods_UBTKit_Example {
+  umbrella header "Pods-UBTKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
